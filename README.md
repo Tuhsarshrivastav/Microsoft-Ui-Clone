@@ -1,4 +1,7 @@
 demo = https://microsoft-ui-clone.netlify.app/
+
+![microsoft](https://user-images.githubusercontent.com/74534919/118355679-dea0dd80-b58e-11eb-88bb-36af44f95880.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
